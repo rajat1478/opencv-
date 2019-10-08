@@ -1,2 +1,2 @@
 # opencv
-opencv tutorial
+opencv tutorial from basics to face detection
