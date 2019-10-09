@@ -6,6 +6,7 @@ Created on Fri Oct  4 05:44:06 2019
 """
 
 import cv2
+import sys
 
 def ask_tracker():
     choice=int(input("select your tracker:"))
